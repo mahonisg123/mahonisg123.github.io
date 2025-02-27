@@ -1,2 +1,2 @@
-# Mahmut Saglam
-I am working on HTML, VBScript
+# [My Blog](https://mahmutsaglamdotcom.wordpress.com/)
+
